@@ -1,0 +1,45 @@
+
+body{
+  margin: 0;
+  padding: 20px;
+  background-color: rgb(217, 234, 234);
+}
+
+.main{
+  max-width: 450px;
+  margin: auto;
+  background-color: rgb(217, 245, 245);
+  padding: 15px;
+  border-radius: 5px;
+  box-shadow: 0 2px 10px ;
+  margin-top: 80px;
+}
+
+#first{
+  text-align: center;
+}
+
+input{
+  width:78%;
+  padding:5px;
+  margin-left: 40px;
+
+}
+
+label{
+  display: block;
+  margin: 10px 0 5px;
+  margin-left: 40px;
+}
+
+#button{
+  background-color: rgb(63, 92, 63);
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 80%;
+  margin-top: 5px;
+  margin-left: 40px;
+}
